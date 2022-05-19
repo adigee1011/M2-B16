@@ -1,7 +1,6 @@
 # M2-B16
 
 
-* Talk about something you learned this week.
 
 
 * Explain Function.prototype.bind()
