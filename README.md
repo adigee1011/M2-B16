@@ -9,7 +9,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects
 https://www.freecodecamp.org/news/function-prototype-bind-and-function-prototype-length-in-javascript-explained/
 
 
-*
+* Describe event bubbling.
 https://www.geeksforgeeks.org/event-bubbling-in-javascript/
 
 
