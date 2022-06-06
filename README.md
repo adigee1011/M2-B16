@@ -22,6 +22,5 @@ https://thisthat.dev/dom-content-loaded-vs-load/
 
 
 
-* Describe the call stack.
 
 https://www.geeksforgeeks.org/what-is-the-call-stack-in-javascript/
